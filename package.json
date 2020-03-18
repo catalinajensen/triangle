@@ -17,6 +17,7 @@
 		"vue": "^2.5.3"
 	},
 	"devDependencies": {
+		"acorn": ">=5.7.4",
 		"babel-core": "^6.26.0",
 		"babel-loader": "^6.0.0",
 		"babel-preset-env": "^1.6.1",
