@@ -10,7 +10,7 @@
 	},
 	"dependencies": {
 		"bootstrap": "^4.3.1",
-		"bootstrap-vue": "^1.2.0",
+		"bootstrap-vue": "^2.0.0",
 		"popper.js": "^1.12.9",
 		"mixin-deep": ">=1.3.2",
 		"tradeshift-ui": "^7.0.0",
